@@ -2,6 +2,8 @@
 
 ## History
 
+Arthur Askins
+
 Nobel Prize 1997 in physics
 > *for development of methods to cool and trap atoms with laser light*
 * [https://www.nobelprize.org/prizes/physics/1997/chu/facts/](https://www.nobelprize.org/prizes/physics/1997/chu/facts/)
@@ -12,11 +14,9 @@ Nobel Prize 2018 in physics
 * [https://www.nobelprize.org/prizes/physics/2018/ashkin/facts/](https://www.nobelprize.org/prizes/physics/2018/ashkin/facts/)
 * Key paper [10.1364/OL.11.000288](https://doi.org/10.1364/OL.11.000288)
 
-## Practical Applications
 
-> A fiber based optical trapping system, namely inclined dual fiber optical tweezers, that can simultaneously apply and measure forces both in water and in a 3D polyacrylamide gel matrix is developed.
 
-## Theory and Working Principle
+## Theoretical Background: Light has momentum
 
 $$E^2 = p^2 c^2 + m^2 c^4$$
 
@@ -32,6 +32,35 @@ The impulse of a photon emitted by a diode laser is $p = \frac{h}{980 \times 10^
 
 *Mie* scattering.
 
-## Real World Examples
+
+## Optical tweezer physics 
+
+### Forces 
+
+> gradient force
+> scattering force
+
+### Standard experimental design
+
+
+### Further experimental designs 
+
+> Fleezers
+> Angular optical tweezers
+
+
+
+
+
+## Practical Applications
+
+> Malaria detection
+> Biophysics Force measurement
+> A fiber based optical trapping system, namely inclined dual fiber optical tweezers, that can simultaneously apply and measure forces both in water and in a 3D polyacrylamide gel matrix is developed.
+
+## Challenges 
+
+> Hybrid techniques (3d-Optical trapping and moving)
+
 
 ## References
